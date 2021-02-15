@@ -131,7 +131,7 @@
         /* jshint ignore:end */
 
         // Create tracker object
-        ga('create', 'UA-17904194-1', 'auto');
+        ga('create', 'UA-80250339-1', 'auto');
 
         // anonymizeIP
         // https://developers.google.com/analytics/devguides/collection/analyticsjs/ip-anonymization
