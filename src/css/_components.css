@@ -19,11 +19,12 @@
  */
 
 .aside {
-  background-color: #eee;
-  border: solid #e3e3e3;
+  background-color: #ffffff;
+  border: solid #3f3f3f;
   border-width: 1px 0;
   font-size: 1.125em;
   padding: 1em 0;
+  color:#000000;
 }
 
 /*
